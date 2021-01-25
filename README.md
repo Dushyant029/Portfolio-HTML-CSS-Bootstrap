@@ -2,7 +2,7 @@
 
 This is a simple Responsive Portfolio Website made using Html, Css, Javascript and Bootstrap which contains even the blog section.
 
-## Preview:
+## Preview: https://dushyant029.github.io/Portfolio-HTML-CSS-Bootstrap/
 
 ![image](https://user-images.githubusercontent.com/55031190/105675310-f0427480-5f0e-11eb-8b8b-c443fbe8d0dd.png)
 
